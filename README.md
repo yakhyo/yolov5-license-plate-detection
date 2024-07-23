@@ -1,4 +1,4 @@
-# YOLOv5 ONNX Object Detection Inference
+# YOLOv5 License Plate Detection (ONNX Runtime Inference)
 
 ![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov5-license-plate-detection/total)
 
