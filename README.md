@@ -1,6 +1,6 @@
 # YOLOv5 ONNX Object Detection Inference
 
-![Downloads](https://img.shields.io/github/downloads/yakhyo/git push -u origin main/total)
+![Downloads](https://img.shields.io/github/downloads/yakhyo/total)
 
 <video controls autoplay loop src="https://github.com/user-attachments/assets/23bed56d-b49c-4606-84c9-1797c479f187" muted="false"></video>
 Link: https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
