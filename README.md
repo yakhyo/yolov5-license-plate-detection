@@ -39,14 +39,16 @@ sh download.sh anpr_yolov5s
                anpr_yolov5m
 ```
 
+
+
 #### Download weights from the following links
 
 **Note:** The weights are saved in FP32.
 
 | Model Name | ONNX Model Link                                                                                                | Number of Parameters | Model Size |
 | ---------- | -------------------------------------------------------------------------------------------------------------- | -------------------- | ---------- |
-| YOLOv5s    | [yolov5s.onnx](https://github.com/yakhyo/yolov5-license-plate-detection/releases/download/v0.0.1/yolov5s.onnx) | 7.2M                 | 28 MB      |
-| YOLOv5m    | [yolov5m.onnx](https://github.com/yakhyo/yolov5-license-plate-detection/releases/download/v0.0.1/yolov5m.onnx) | 21.2M                | 84 MB      |
+| YOLOv5s    | [yolov5s.onnx](https://github.com/yakhyo/yolov5-license-plate-detection/releases/download/v0.0.1/anpr_yolov5s.onnx) | 7.2M                 | 28 MB      |
+| YOLOv5m    | [yolov5m.onnx](https://github.com/yakhyo/yolov5-license-plate-detection/releases/download/v0.0.1/anpr_yolov5m.onnx) | 21.2M                | 84 MB      |
 
 <br>
 
