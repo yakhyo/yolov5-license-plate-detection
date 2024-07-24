@@ -2,7 +2,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov5-license-plate-detection/total)
 
-<video controls autoplay loop src="https://github.com/user-attachments/assets/23bed56d-b49c-4606-84c9-1797c479f187" muted="false"></video>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/23bed56d-b49c-4606-84c9-1797c479f187" muted="false" width="100%"></video>
 Link: https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
 
 This repository contains code and instructions for performing object detection using YOLOv5 inference with ONNX Runtime.
