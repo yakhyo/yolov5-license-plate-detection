@@ -1,6 +1,6 @@
 # YOLOv5 License Plate Detection (ONNX Runtime Inference)
 
-![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov5-license-plate-detection/total)
+![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov5-license-plate-detection/total) [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/yakhyo/yolov5-license-plate-detection)
 
 <video controls autoplay loop src="https://github.com/user-attachments/assets/23bed56d-b49c-4606-84c9-1797c479f187" muted="false" width="100%"></video>
 Link: https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
